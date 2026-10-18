@@ -1,0 +1,84 @@
+{
+  "author": "lyf266",
+  "repo": "https://github.com/lyf266/bank-exam-2026-toolkit",
+  "commit": "2adb4103bd00d68fced9d80a3ee1f6981d6cdb09",
+  "importedAt": "2026-10-18",
+  "license": "Apache-2.0 with Non-Commercial Addendum",
+  "licenseFile": "licenses/bank-recall-toolkit.txt",
+  "changes": "Text/math normalization, topic tagging, practice scoring; no filler questions. Repairs disclosed per question.",
+  "excluded": {
+    "2024_06_law/LAW-ZT-004": "来源未给出独立解析，暂不导入。",
+    "2024_06_law/LAW-ZT-124": "来源解析缺失且混在下一题题干中，暂不导入。",
+    "2023_06_finance/2023-06-FIN-008": "万能保险账户及最低保证收益表述不够准确，暂不导入。",
+    "2024_06_law/LAW-ZT-063": "题干混用巴塞尔框架与我国监管要求，所给3%答案与我国4%要求不符。",
+    "2024_06_law/LAW-ZT-068": "题干存在重复和缺失，比例口径无法可靠确定。",
+    "2024_06_finance/FIN-ZT-093": "题干问收益，答案为本息合计，暂不导入。",
+    "2025_10_finance/2025-10-FIN-003": "多个选项的两个金额已串行，无法保留可靠的选择题。"
+  },
+  "files": [
+    {
+      "file": "2023_06_law.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2023_06_law.json",
+      "sha256": "325ef9c686b785ee52f371a8da555a6dd339762dbfd7d12413309246a1112bbd",
+      "input": 30,
+      "included": 30,
+      "corrected": 0
+    },
+    {
+      "file": "2023_06_finance.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2023_06_finance.json",
+      "sha256": "72a3be4f0daee69096135ce0727f6ce81fff2f10ed1b7b80eb5f5908904ab103",
+      "input": 8,
+      "included": 7,
+      "corrected": 1
+    },
+    {
+      "file": "2023_10_law.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2023_10_law.json",
+      "sha256": "82f70bc782cbc28dcfc6dad137753df70b8c3af13270e48ca04929aa96608b8f",
+      "input": 5,
+      "included": 5,
+      "corrected": 0
+    },
+    {
+      "file": "2023_10_finance.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2023_10_finance.json",
+      "sha256": "45da4df1ad92cefcd1c50c0c0e47336a0cc966e00ae883c529b51892641f890d",
+      "input": 5,
+      "included": 5,
+      "corrected": 1
+    },
+    {
+      "file": "2024_06_law.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2024_06_law.json",
+      "sha256": "3cdc27f51c65715b4c28b1b17dd24b8c523d4a849c6e1ef0dd3fe7dda64ef04b",
+      "input": 125,
+      "included": 121,
+      "corrected": 7
+    },
+    {
+      "file": "2024_06_finance.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2024_06_finance.json",
+      "sha256": "96312bc1fe54ba47a6c4d443d7c4243b0a38416ebf67fa401b3042d76dce6bc4",
+      "input": 114,
+      "included": 113,
+      "corrected": 4
+    },
+    {
+      "file": "2025_10_law.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2025_10_law.json",
+      "sha256": "ee8329499d679601074b72eae58d9f284429c8b49ba3e1d72f2a32b03c3006e4",
+      "input": 30,
+      "included": 30,
+      "corrected": 2
+    },
+    {
+      "file": "2025_10_finance.json",
+      "url": "https://github.com/lyf266/bank-exam-2026-toolkit/blob/2adb4103bd00d68fced9d80a3ee1f6981d6cdb09/data/past_papers/2025_10_finance.json",
+      "sha256": "c7ed3caa3498c5d88946d2c0a3e2bb74b5f6ce2b9d3f518964b957986092de9c",
+      "input": 13,
+      "included": 12,
+      "corrected": 2
+    }
+  ]
+}
