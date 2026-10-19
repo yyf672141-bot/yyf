@@ -39,3 +39,16 @@ B、C整卷接入新增题并降低与A卷的重复，继续保持法律法规12
 资料整理者：lyf266，来源 https://github.com/lyf266/bank-exam-2026-toolkit ，固定版本 2adb4103bd00d68fced9d80a3ee1f6981d6cdb09。Copyright 2026 lyf266. Apache-2.0 with Non-Commercial Addendum。仅供个人、教育及非商业备考免费使用，禁止商业转售、付费课程或付费平台利用；保留作者署名和非商业声明。完整许可：[licenses/bank-recall-toolkit.txt](licenses/bank-recall-toolkit.txt)。
 
 本站修改：整理空白和数学排版、分配章节及练习分值、去除7道内容不完整或有疑问的题；修复前题解析串入题干、解析结论字母及数字千位分隔错误，逐题标注校订说明。未用模拟题补足缺题。来源文件哈希、收录数量和剔除原因：[data/bank-recall-provenance.json](data/bank-recall-provenance.json)。支持计时、保存续答、按实际分值计分、错题复盘及逐题来源查看。
+
+
+## 2026-10-19 公开改写题与随机训练
+
+筛选新增1,706道公开改写题：银行法规770、个人理财311、基金科一173、基金科二452。四科按题干去重后题池分别为1,297、780、373、652道，合计3,102道。原有历年回忆题数量与来源标注不变。
+
+首页“题池总览”提供20题、50题及随机整卷。按已完成记录优先抽取出现较少的题，保持整卷题型与分值；题池耗尽后仍可能重复。公开改写题可在本区取消勾选，也已接入章节训练。作答保存、交卷计分及错题来源查看均支持新题。
+
+来源：Duxiaoman-DI / FinanceIQ，https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ ，固定版本 fca1d9ceb6925041264d211b9ddf7264e8145248。上游采用GPT-4改写及人工校对考试辅导题；不是官方真题，未提供考试年份。数据按CC BY-NC-SA 4.0许可（https://creativecommons.org/licenses/by-nc-sa/4.0/），本站筛选、分类和格式适配的数据继续使用同一许可，限非商业用途并保留署名。
+
+本站从2,411条输入中排除705条（过时法规/机构、缺上下文、非所选科目、数值监管口径等规则筛选及重复）。采用来源答案，本站未逐题人工复核；源数据没有详细解析，页面如实提示。不能将规则筛选视为当前考纲的逐题认证。
+
+完整署名、变更、输入哈希与筛选记录：[data/financeiq-attribution.json](data/financeiq-attribution.json)。同许可的适配题目数据：[data/financeiq-selected.json](data/financeiq-selected.json)。
