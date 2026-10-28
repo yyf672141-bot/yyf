@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-10-21",
-  "reviewed": 232,
-  "verified": 109,
+  "checkedAt": "2026-10-28",
+  "reviewed": 234,
+  "verified": 111,
   "blocked": 123,
   "changedAnswers": [
     "FIQ-0-551",
@@ -1810,6 +1810,31 @@
       "sourceTitle": "CFA Institute：Yield-Based Bond Duration Measures and Properties",
       "note": "停止进入练习和组卷；修复题干/选项后需再次核验。",
       "sourceUrl": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/yield-based-bond-duration-measures-and-properties"
+    },
+    {
+      "id": "BKR-2024_06_law-LAW-ZT-069",
+      "status": "verified",
+      "correct": [
+        "C"
+      ],
+      "explanation": "参考答案（解析校订）：C。中国银行业协会当前官网章程第2条规定其为全国性银行业自律组织、非营利性社会团体，C正确。第22条最高权力机构为会员代表大会，第26条执行机构为理事会；A、D的机构角色错误。B把自律协会等同行政金融监管机构，也错误。来源年份为回忆题整理标签，题干未明示适用旧章程时点，不能据此将旧会员大会表述当现行规则。",
+      "sourceTitle": "中国银行业协会现行官网章程第2、22、26条",
+      "sourceUrl": "https://www.china-cba.net/Index/lists/catid/9.html",
+      "note": "检查日期2026-10-28；答案和选项未变，解析改现行会员代表大会及理事会；按内容对应同步旧备份和重组题，不以ID盲改。",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "id": "BKR-2025_10_law-2025-10-LAW-006",
+      "status": "verified",
+      "correct": [
+        "C"
+      ],
+      "explanation": "参考答案（解析校订）：C。中国银行业协会当前官网章程第2条规定其为全国性银行业自律组织、非营利性社会团体，C正确。第22条最高权力机构为会员代表大会，第26条执行机构为理事会；A、D的机构角色错误。B把自律协会等同行政金融监管机构，也错误。来源年份为回忆题整理标签，题干未明示适用旧章程时点，不能据此将旧会员大会表述当现行规则。",
+      "sourceTitle": "中国银行业协会现行官网章程第2、22、26条",
+      "sourceUrl": "https://www.china-cba.net/Index/lists/catid/9.html",
+      "note": "检查日期2026-10-28；答案和选项未变，解析改现行会员代表大会及理事会；按内容对应同步旧备份和重组题，不以ID盲改。",
+      "checkedAt": "2026-10-28"
     }
-  ]
+  ],
+  "dateNote": "文件名保留原2026-10-21以兼容旧链接；两条协会解析于2026-10-28补充复核，其余记录保留原校订日期。"
 }
